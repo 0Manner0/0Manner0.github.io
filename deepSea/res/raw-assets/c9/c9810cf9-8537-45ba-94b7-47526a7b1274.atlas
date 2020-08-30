@@ -1,0 +1,20 @@
+
+yu_42.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 147, 33
+  orig: 147, 33
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 150, 1
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1

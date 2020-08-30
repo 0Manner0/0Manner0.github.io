@@ -1,0 +1,55 @@
+
+yu_24.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 74, 127
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+yuqi03
+  rotate: false
+  xy: 51, 127
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 51, 87
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+denglonggan
+  rotate: false
+  xy: 1, 87
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 110, 84
+  orig: 110, 84
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 103, 119
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+denglong
+  rotate: false
+  xy: 103, 87
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

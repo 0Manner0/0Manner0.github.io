@@ -1,0 +1,41 @@
+
+yu_57.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 1, 71
+  size: 55, 82
+  orig: 55, 82
+  offset: 0, 0
+  index: -1
+yuqi03
+  rotate: false
+  xy: 58, 99
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 58, 71
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 1, 155
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 108, 68
+  orig: 108, 68
+  offset: 0, 0
+  index: -1

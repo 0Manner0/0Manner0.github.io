@@ -1,0 +1,41 @@
+
+yu_50.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba02
+  rotate: false
+  xy: 168, 45
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 142, 29
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 139, 49
+  orig: 139, 49
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 142, 1
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+weiba01
+  rotate: false
+  xy: 168, 29
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1

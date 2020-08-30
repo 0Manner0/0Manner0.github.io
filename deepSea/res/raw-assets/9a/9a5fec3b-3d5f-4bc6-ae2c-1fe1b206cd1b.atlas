@@ -1,0 +1,34 @@
+
+yu_47.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 136, 1
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 163, 31
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 133, 41
+  orig: 133, 41
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 136, 31
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1

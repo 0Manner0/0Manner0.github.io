@@ -1,0 +1,97 @@
+
+yu_58.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tui08
+  rotate: false
+  xy: 64, 91
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+tui07
+  rotate: false
+  xy: 27, 100
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+tui06
+  rotate: false
+  xy: 1, 78
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+tui05
+  rotate: false
+  xy: 97, 67
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+tui04
+  rotate: false
+  xy: 33, 76
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+tui03
+  rotate: false
+  xy: 65, 67
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+tui02
+  rotate: false
+  xy: 33, 50
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+tui01
+  rotate: false
+  xy: 1, 50
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+qianzi02
+  rotate: false
+  xy: 89, 1
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+qianzi01
+  rotate: false
+  xy: 89, 34
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+yanjing02
+  rotate: false
+  xy: 43, 100
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+yanjing01
+  rotate: false
+  xy: 1, 102
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+yu_10.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuxu07
+  rotate: false
+  xy: 91, 1
+  size: 19, 100
+  orig: 19, 100
+  offset: 0, 0
+  index: -1
+chuxu06
+  rotate: false
+  xy: 112, 1
+  size: 18, 100
+  orig: 18, 100
+  offset: 0, 0
+  index: -1
+chuxu05
+  rotate: false
+  xy: 132, 1
+  size: 17, 70
+  orig: 17, 70
+  offset: 0, 0
+  index: -1
+chuxu04
+  rotate: false
+  xy: 163, 1
+  size: 10, 84
+  orig: 10, 84
+  offset: 0, 0
+  index: -1
+chuxu03
+  rotate: false
+  xy: 151, 1
+  size: 10, 85
+  orig: 10, 85
+  offset: 0, 0
+  index: -1
+chuxu02
+  rotate: false
+  xy: 186, 1
+  size: 9, 67
+  orig: 9, 67
+  offset: 0, 0
+  index: -1
+chuxu01
+  rotate: false
+  xy: 175, 1
+  size: 9, 67
+  orig: 9, 67
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 88, 58
+  orig: 88, 58
+  offset: 0, 0
+  index: -1

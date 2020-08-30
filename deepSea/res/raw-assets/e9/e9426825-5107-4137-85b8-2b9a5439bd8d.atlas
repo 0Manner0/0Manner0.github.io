@@ -1,0 +1,48 @@
+
+yu_65.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba02
+  rotate: false
+  xy: 142, 41
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 171, 41
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+yuqi03
+  rotate: false
+  xy: 142, 1
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 139, 47
+  orig: 139, 47
+  offset: 0, 0
+  index: -1
+weiba01
+  rotate: false
+  xy: 142, 25
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 174, 1
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1

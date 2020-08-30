@@ -1,0 +1,48 @@
+
+yu_40.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 70, 123
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+yuqi04
+  rotate: false
+  xy: 1, 123
+  size: 67, 27
+  orig: 67, 27
+  offset: 0, 0
+  index: -1
+yuqi03
+  rotate: false
+  xy: 1, 152
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 1, 77
+  size: 109, 44
+  orig: 109, 44
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 110, 74
+  orig: 110, 74
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 43, 152
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1

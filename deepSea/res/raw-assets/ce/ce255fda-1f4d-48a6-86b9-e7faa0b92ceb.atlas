@@ -1,0 +1,41 @@
+
+yu_39.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 1, 86
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 53, 33
+  size: 49, 21
+  orig: 49, 21
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 94, 30
+  orig: 94, 30
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 1, 33
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 97, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

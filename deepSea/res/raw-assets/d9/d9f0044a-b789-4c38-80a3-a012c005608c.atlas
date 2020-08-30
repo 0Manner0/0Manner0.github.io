@@ -1,0 +1,13 @@
+
+yu_b.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main_button_hongbaojuan1
+  rotate: false
+  xy: 1, 1
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+yu_27.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 1, 56
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+yuqi03
+  rotate: false
+  xy: 36, 76
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 1, 105
+  size: 56, 20
+  orig: 56, 20
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 118, 53
+  orig: 118, 53
+  offset: 0, 0
+  index: -1
+yiqi01
+  rotate: false
+  xy: 36, 56
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 36, 88
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1

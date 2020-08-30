@@ -1,0 +1,55 @@
+
+yu_20.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuqi05
+  rotate: false
+  xy: 190, 26
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+yuqi04
+  rotate: false
+  xy: 190, 14
+  size: 42, 10
+  orig: 42, 10
+  offset: 0, 0
+  index: -1
+yuqi03
+  rotate: false
+  xy: 190, 1
+  size: 50, 11
+  orig: 50, 11
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 161, 1
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 158, 30
+  orig: 158, 30
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 234, 14
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 242, 1
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1

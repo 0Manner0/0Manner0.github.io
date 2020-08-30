@@ -1,0 +1,41 @@
+
+yu_1.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 61, 59
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 1, 89
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 1, 59
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+yuqi03
+  rotate: false
+  xy: 76, 1
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1

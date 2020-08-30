@@ -1,0 +1,27 @@
+
+yu_59.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuqi02
+  rotate: false
+  xy: 138, 1
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 135, 103
+  orig: 135, 103
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 1, 106
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1

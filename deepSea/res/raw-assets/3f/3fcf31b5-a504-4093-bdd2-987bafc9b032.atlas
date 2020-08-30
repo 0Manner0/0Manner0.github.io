@@ -1,0 +1,62 @@
+
+yu_56.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 66, 75
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+yuqi04
+  rotate: false
+  xy: 103, 75
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+yuqi03
+  rotate: false
+  xy: 1, 110
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 1, 75
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 111, 72
+  orig: 111, 72
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 103, 110
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+heiyanquan
+  rotate: false
+  xy: 58, 123
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 114, 1
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1

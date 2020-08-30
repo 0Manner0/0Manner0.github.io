@@ -1,0 +1,48 @@
+
+yu_45.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 1, 76
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+yuqi03
+  rotate: false
+  xy: 76, 76
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 41, 76
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 116, 73
+  orig: 116, 73
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 119, 1
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 41, 97
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1

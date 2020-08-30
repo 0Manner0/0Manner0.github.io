@@ -1,0 +1,48 @@
+
+yu_16.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 1, 1
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+yuqi03
+  rotate: false
+  xy: 80, 92
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 1, 92
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 80, 147
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 146
+  size: 77, 42
+  orig: 77, 42
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 108, 1
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+yu_53.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuqi03
+  rotate: false
+  xy: 1, 108
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 1, 80
+  size: 71, 26
+  orig: 71, 26
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 110, 77
+  orig: 110, 77
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 74, 80
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 44, 108
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1

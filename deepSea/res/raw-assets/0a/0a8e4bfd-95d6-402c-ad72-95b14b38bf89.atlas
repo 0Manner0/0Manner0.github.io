@@ -1,0 +1,153 @@
+
+yu_63.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuxu20
+  rotate: false
+  xy: 101, 40
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+chuxu19
+  rotate: false
+  xy: 62, 73
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+chuxu18
+  rotate: false
+  xy: 101, 1
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+chuxu17
+  rotate: false
+  xy: 1, 73
+  size: 13, 56
+  orig: 13, 56
+  offset: 0, 0
+  index: -1
+chuxu16
+  rotate: false
+  xy: 83, 86
+  size: 8, 46
+  orig: 8, 46
+  offset: 0, 0
+  index: -1
+chuxu15
+  rotate: false
+  xy: 53, 73
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+chuxu14
+  rotate: false
+  xy: 101, 26
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+chuxu13
+  rotate: false
+  xy: 93, 86
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+chuxu12
+  rotate: false
+  xy: 45, 73
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+chuxu11
+  rotate: false
+  xy: 93, 121
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+chuxu10
+  rotate: false
+  xy: 118, 1
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+chuxu09
+  rotate: false
+  xy: 112, 121
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+chuxu08
+  rotate: false
+  xy: 16, 100
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+chuxu07
+  rotate: false
+  xy: 45, 86
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+chxu06
+  rotate: false
+  xy: 45, 102
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+chuxu05
+  rotate: false
+  xy: 16, 73
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+chuxu04
+  rotate: false
+  xy: 93, 109
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1
+chuxu03
+  rotate: false
+  xy: 74, 48
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+chuxu02
+  rotate: false
+  xy: 74, 1
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+chuxu01
+  rotate: false
+  xy: 107, 48
+  size: 15, 59
+  orig: 15, 59
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1

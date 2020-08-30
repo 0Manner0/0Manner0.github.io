@@ -1,0 +1,41 @@
+
+yu_38.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuqi04
+  rotate: false
+  xy: 154, 31
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+yuqi03
+  rotate: false
+  xy: 216, 31
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 154, 1
+  size: 75, 28
+  orig: 75, 28
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 151, 68
+  orig: 151, 68
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 189, 31
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1

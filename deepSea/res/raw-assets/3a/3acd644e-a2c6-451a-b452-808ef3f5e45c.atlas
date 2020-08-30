@@ -1,0 +1,20 @@
+
+yu_61.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 76, 1
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1

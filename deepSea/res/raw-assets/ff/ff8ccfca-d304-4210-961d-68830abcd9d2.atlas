@@ -1,0 +1,48 @@
+
+yu_49.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba02
+  rotate: false
+  xy: 133, 52
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 133, 30
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 130, 51
+  orig: 130, 51
+  offset: 0, 0
+  index: -1
+yangjing
+  rotate: false
+  xy: 150, 52
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+yuqu01
+  rotate: false
+  xy: 133, 1
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+weiba01
+  rotate: false
+  xy: 156, 30
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1

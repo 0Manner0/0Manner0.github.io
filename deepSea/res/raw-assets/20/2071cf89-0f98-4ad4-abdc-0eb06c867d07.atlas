@@ -1,0 +1,34 @@
+
+yu_34.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuqi03
+  rotate: false
+  xy: 140, 22
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 140, 1
+  size: 86, 19
+  orig: 86, 19
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 137, 64
+  orig: 137, 64
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 228, 1
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1

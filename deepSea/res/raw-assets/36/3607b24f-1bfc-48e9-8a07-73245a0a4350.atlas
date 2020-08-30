@@ -1,0 +1,48 @@
+
+yu_44.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba02
+  rotate: false
+  xy: 159, 24
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+yuqi03
+  rotate: false
+  xy: 166, 41
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 135, 1
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+weiba01
+  rotate: false
+  xy: 135, 45
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 135, 24
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1

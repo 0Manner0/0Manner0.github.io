@@ -1,0 +1,48 @@
+
+yu_26.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 92, 67
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+yuqi03
+  rotate: false
+  xy: 1, 67
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 1, 110
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 123, 64
+  orig: 123, 64
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 1, 90
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 33, 106
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1

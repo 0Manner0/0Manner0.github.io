@@ -1,0 +1,41 @@
+
+yu_15.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuqi04
+  rotate: false
+  xy: 83, 72
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+yuqi03
+  rotate: false
+  xy: 1, 72
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 111, 72
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 50, 72
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 137, 69
+  orig: 137, 69
+  offset: 0, 0
+  index: -1

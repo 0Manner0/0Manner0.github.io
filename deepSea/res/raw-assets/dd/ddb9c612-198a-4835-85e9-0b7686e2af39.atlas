@@ -1,0 +1,62 @@
+
+yu_52.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 1, 65
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+yuqi05
+  rotate: false
+  xy: 42, 96
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+yuqi04
+  rotate: false
+  xy: 73, 65
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+yuqi03
+  rotate: false
+  xy: 101, 96
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy: 72, 96
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 113, 62
+  orig: 113, 62
+  offset: 0, 0
+  index: -1
+yuqi01
+  rotate: false
+  xy: 42, 65
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 1, 113
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
