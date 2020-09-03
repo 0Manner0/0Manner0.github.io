@@ -1,0 +1,55 @@
+
+Explosions.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EXPLOSIONS4
+  rotate: false
+  xy: 1, 593
+  size: 252, 233
+  orig: 355, 371
+  offset: 48, 61
+  index: -1
+EXPLOSIONS1
+  rotate: false
+  xy: 255, 823
+  size: 210, 170
+  orig: 355, 371
+  offset: 69, 93
+  index: -1
+EXPLOSIONS3
+  rotate: false
+  xy: 1, 1
+  size: 304, 297
+  orig: 355, 371
+  offset: 22, 29
+  index: -1
+EXPLOSIONS5
+  rotate: false
+  xy: 255, 593
+  size: 210, 228
+  orig: 355, 371
+  offset: 69, 64
+  index: -1
+EXPLOSIONS7
+  rotate: false
+  xy: 307, 1
+  size: 95, 107
+  orig: 355, 371
+  offset: 126, 124
+  index: -1
+EXPLOSIONS2
+  rotate: false
+  xy: 1, 300
+  size: 306, 291
+  orig: 355, 371
+  offset: 21, 33
+  index: -1
+EXPLOSIONS6
+  rotate: false
+  xy: 1, 828
+  size: 163, 174
+  orig: 355, 371
+  offset: 93, 91
+  index: -1

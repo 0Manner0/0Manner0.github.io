@@ -1,0 +1,55 @@
+
+Explosions01.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wsparticle_newdie_0001_002
+  rotate: false
+  xy: 129, 237
+  size: 109, 94
+  orig: 109, 94
+  offset: 0, 0
+  index: -1
+wsparticle_newdie_0000_001
+  rotate: false
+  xy: 137, 116
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+wsparticle_newdie_0005_006
+  rotate: false
+  xy: 1, 1
+  size: 145, 113
+  orig: 145, 113
+  offset: 0, 0
+  index: -1
+wsparticle_newdie_0003_004
+  rotate: false
+  xy: 1, 116
+  size: 134, 119
+  orig: 134, 119
+  offset: 0, 0
+  index: -1
+wsparticle_newdie_0006_007
+  rotate: false
+  xy: 148, 1
+  size: 35, 99
+  orig: 35, 99
+  offset: 0, 0
+  index: -1
+wsparticle_newdie_0002_003
+  rotate: false
+  xy: 1, 360
+  size: 130, 112
+  orig: 130, 112
+  offset: 0, 0
+  index: -1
+wsparticle_newdie_0004_005
+  rotate: false
+  xy: 1, 237
+  size: 126, 121
+  orig: 126, 121
+  offset: 0, 0
+  index: -1
