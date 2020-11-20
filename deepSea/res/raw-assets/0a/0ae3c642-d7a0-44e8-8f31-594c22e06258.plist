@@ -13,7 +13,7 @@
     <key>duration</key>
     <integer>-1</integer>
     <key>emitterType</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>finishColorAlpha</key>
     <integer>1</integer>
     <key>finishColorBlue</key>
@@ -39,15 +39,15 @@
     <key>gravityy</key>
     <real>0.8600000143051147</real>
     <key>maxParticles</key>
-    <integer>30</integer>
+    <integer>15</integer>
     <key>maxRadius</key>
     <integer>0</integer>
     <key>maxRadiusVariance</key>
     <integer>0</integer>
     <key>minRadius</key>
-    <integer>0</integer>
+    <integer>200</integer>
     <key>particleLifespan</key>
-    <real>0.3</real>
+    <real>1.5</real>
     <key>particleLifespanVariance</key>
     <real>0.5</real>
     <key>radialAccelVariance</key>
@@ -57,7 +57,7 @@
     <key>rotatePerSecond</key>
     <integer>0</integer>
     <key>rotatePerSecondVariance</key>
-    <integer>0</integer>
+    <integer>20</integer>
     <key>rotationEnd</key>
     <real>-47.369998931884766</real>
     <key>rotationEndVariance</key>
@@ -75,9 +75,9 @@
     <key>sourcePositiony</key>
     <real>478.40472412109375</real>
     <key>speed</key>
-    <integer>70</integer>
-    <key>speedVariance</key>
     <integer>0</integer>
+    <key>speedVariance</key>
+    <real>190.7899932861328</real>
     <key>startColorAlpha</key>
     <integer>1</integer>
     <key>startColorBlue</key>
@@ -109,8 +109,8 @@
     <key>rotationIsDir</key>
     <false/>
     <key>minRadiusVariance</key>
-    <integer>0</integer>
+    <integer>50</integer>
     <key>emissionRate</key>
-    <real>999.999985098839</real>
+    <integer>50</integer>
   </dict>
 </plist>
