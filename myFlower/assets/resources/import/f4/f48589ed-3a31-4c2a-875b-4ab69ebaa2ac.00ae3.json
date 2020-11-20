@@ -1,0 +1,1 @@
+[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"目录说明","脚本相关的资源不要放在resources 下面\r\n\r\nAnimation 游戏中用到的动画文件\r\n\r\nAudio 游戏中用到的音频文件\r\n\r\nConfig 游戏中的配置文件\r\n\r\nFont 游戏中的字体文件\r\n\r\nParticle 游戏中的粒子特效资源\r\n\r\nScene 游戏中的场景资源\r\n\r\nUI 游戏中涉及到的相关的视图资源"]],0,0,[],[],[]]
